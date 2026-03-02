@@ -1,10 +1,8 @@
 # Buildit
-===
 
-> Tässä dokumentissa on kerättänyt eri buildeihin liittyvää materiaalia
+> Tähän dokumenttiin on kerätty eri buildeihin liittyvää materiaalia
 
 ## Siege Ballista Hierophant (3.27)
----
 
 ### Plussat ja miinukset
 
@@ -22,7 +20,6 @@
 - Cannot farm pinnacle bosses on Uber Mode difficulty
 - This build was not designed for T17 mapping
 - Uniikkeja pakko hommata
-
 
 ### Guide
 
@@ -42,7 +39,7 @@
 - Not using the right flasks / Not using the bow setup correctly (to summon the Golem and curse with Frostbite).
 - Not having elemental resistances capped during the mapping phase.
 
-#### EA Ballista -> Siege Ballista
+#### EA Ballista -> Siege Ballista -transformaatio
 
 - Level minimissään noin 78
 - Dexterity minimissään 1000
@@ -50,9 +47,15 @@
 
 ### Path of Building
 
-3.27: [Levelaus 1 - 78 (EA Ballista)](https://pobb.in/wF5R9WdVeJf1)
-3.27: [Budjetti ja normaali lvl 99](https://pobb.in/wXVStDuZrqHX)
+* 3.27: [Levelaus 1 - 78 (EA Ballista)](https://pobb.in/wF5R9WdVeJf1)
+* 3.27: [Budjetti ja normaali lvl 99](https://pobb.in/wXVStDuZrqHX)
+  - HUOM! Skillipuussa stepit tasoille 78, 87 ja 98
 
+### Item filter
+
+* [SiegeBallistaHierophant](https://www.filterblade.xyz/?profile=Anylo&saveState=MH9SYAOS011LUF&isPreset=false&game=Poe1)
+* [Anylo's Item Filters - SiegeBallistaHierophant](https://www.pathofexile.com/account/view-profile/Anylo-2720/item-filters)
+  
 ### Craftaus
 
 ### Kallis versio
