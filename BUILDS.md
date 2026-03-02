@@ -1,10 +1,14 @@
 # Buildit
+===
 
-Tässä dokumentissa on kerättänyt eri buildeihin liittyvää materiaalia
+> Tässä dokumentissa on kerättänyt eri buildeihin liittyvää materiaalia
 
 ## Siege Ballista Hierophant (3.27)
+---
 
-### Pros // Cons
+### Plussat ja miinukset
+
+#### Plussat
 
 + Works great on a budget (great league starter too!)
 + Fast T16 and T16.5 mapper (can do all in-atlas content)
@@ -12,14 +16,17 @@ Tässä dokumentissa on kerättänyt eri buildeihin liittyvää materiaalia
 + Good defenses (once the build is fully done!)
 + Halpoja uniikkeja valtaosa
 
-– Cannot farm pinnacle bosses on Uber Mode difficulty
-– This build was not designed for T17 mapping
+
+#### Miinukset
+
+- Cannot farm pinnacle bosses on Uber Mode difficulty
+- This build was not designed for T17 mapping
 - Uniikkeja pakko hommata
 
 
 ### Guide
 
-https://www.poe-vault.com/guides/siege-ballista-hierophant-build-guide
+[POEGuy - Siege Ballista Hierophant](https://www.poe-vault.com/guides/siege-ballista-hierophant-build-guide)
 
 #### Yleiset virheet (Guidesta poimittu)
 
@@ -41,13 +48,13 @@ https://www.poe-vault.com/guides/siege-ballista-hierophant-build-guide
 - Dexterity minimissään 1000
 - Siege Ballista -skill gem L15/Q20 (HUOMI! Osta Siosalta Ac3:ssa ja laita offhandiin tms. levelautumaan)
 
-### PoB
+### Path of Building
 
-3.27: Levelaus 1 - 78 (EA Ballista): https://pobb.in/wF5R9WdVeJf1
-3.27: Budjetti ja normaali lvl 99: https://pobb.in/wXVStDuZrqHX
+3.27: [Levelaus 1 - 78 (EA Ballista)](https://pobb.in/wF5R9WdVeJf1)
+3.27: [Budjetti ja normaali lvl 99](https://pobb.in/wXVStDuZrqHX)
 
 ### Craftaus
 
 ### Kallis versio
 
-- Shrapnel Ballista - https://www.poe-vault.com/guides/shrapnel-ballista-hierophant-build-guide
+- [Shrapnel Ballista](https://www.poe-vault.com/guides/shrapnel-ballista-hierophant-build-guide)
