@@ -2,6 +2,17 @@
 
 > Tähän dokumenttiin on kerätty eri buildeihin liittyvää materiaalia
 
+## Spark Archmage Hierophant
+
+[Spark Archmage Hierophant](https://mobalytics.gg/poe/builds/bigducks-spark-archmage-heirophant)
+
+## Holy Flame Totem Hierophant]
+
+[Holy Flame Totem Hierophant](https://maxroll.gg/poe/build-guides/holy-flame-totem-hierophant-league-starter)
+
+
+
+
 ## Siege Ballista Hierophant (3.27)
 
 ### Plussat ja miinukset
@@ -43,7 +54,7 @@
 
 - Level minimissään noin 78
 - Dexterity minimissään 1000
-- Siege Ballista -skill gem L15/Q20 (HUOMI! Osta Siosalta Ac3:ssa ja laita offhandiin tms. levelautumaan)
+- Siege Ballista -skill gem L15/Q20 (**HUOMI! Osta Siosalta Ac3:ssa** ja laita offhandiin tms. levelautumaan)
 
 ### Path of Building
 
@@ -55,7 +66,7 @@
 
 * [SiegeBallistaHierophant](https://www.filterblade.xyz/?profile=Anylo&saveState=MH9SYAOS011LUF&isPreset=false&game=Poe1)
 * [Anylo's Item Filters - SiegeBallistaHierophant](https://www.pathofexile.com/account/view-profile/Anylo-2720/item-filters)
-  
+
 ### Craftaus
 
 ### Kallis versio
