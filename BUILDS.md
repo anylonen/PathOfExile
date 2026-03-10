@@ -26,6 +26,7 @@
 - [Astral Plate (max life, armour, life regen, resistances)](https://www.pathofexile.com/trade/search/Mirage/X3DMwG67uP)
 
 - [Pyroclast Mine of Sabotage](https://www.pathofexile.com/trade/search/Mirage/wvl0w5Wmcb)
+- [Righteous Fire of Arcane Devotion](https://www.pathofexile.com/trade/search/Mirage/mkZK7Lzef6)
 
 ## Siege Ballista Hierophant (3.27)
 
