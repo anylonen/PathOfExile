@@ -1,2 +1,4 @@
-# PathOfExile
-Path of Exile - Dokumentaatio
+# Path Of Exile
+> Path of Exile
+
+- [Builds][BUILDS.md]
