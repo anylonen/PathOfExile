@@ -6,6 +6,6 @@
 
 ### Hierophant
 
-- [Flame Totem Hierophant](hierophant/flame_totem.md)
+- [Flame Totem Hierophant](hierophant/holy_flame_totem.md)
 - [Spark Archmage Hierophant](hierophant/spark_archmage.md)
 - [Siege Ballista Hierophant](hierophant/siege_ballista.md)
