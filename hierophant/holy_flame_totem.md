@@ -2,8 +2,8 @@
 
 > The Holy Flame Totem Hierophant League Starter provides a balance of damage, clear and defence on a budget. The Holy Flame Totem shoots fire projectiles in a massive cone, handling large packs and bosses with ease. 
 
-[Holy Flame Totem Hierophant](https://maxroll.gg/poe/build-guides/holy-flame-totem-hierophant-league-starter)
-[PoB](https://maxroll.gg/poe/pob/1afve0lx)
+- [Holy Flame Totem Hierophant](https://maxroll.gg/poe/build-guides/holy-flame-totem-hierophant-league-starter)
+- [PoB](https://maxroll.gg/poe/pob/1afve0lx)
 
 
 ## Gear
