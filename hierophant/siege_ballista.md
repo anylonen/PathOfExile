@@ -52,6 +52,34 @@
 * [SiegeBallistaHierophant](https://www.filterblade.xyz/?profile=Anylo&saveState=MH9SYAOS011LUF&isPreset=false&game=Poe1)
 * [Anylo's Item Filters - SiegeBallistaHierophant](https://www.pathofexile.com/account/view-profile/Anylo-2720/item-filters)
 
+## Gear
+### Early Maps
+
+- [Iron Commander Death Bow](https://www.pathofexile.com/trade/search/Mirage/MdYk82gRiJ)
+- [The Poised Prism Primal Arrow Quiver](https://www.pathofexile.com/trade/search/Mirage/LgBKYQo5Un)
+
+- [Fractal Thoughs Vaal Mask](https://www.pathofexile.com/trade/search/Mirage/zb9gkWoqs4)
+- [Briskwrap Sun Leather](https://www.pathofexile.com/trade/search/Mirage/d8407ma3cJ)
+- [Hrimsorrow Goathide Gloves](https://www.pathofexile.com/trade/search/Mirage/nrJ02mGyt0)
+- [Garukhan's Flight Stealth Boots]()
+
+
+- [Hyrri's Truth Jade Amulet](https://www.pathofexile.com/trade/search/Mirage/yYpe3MWqtR)
+- [Astramentis Onyx Amulet](https://www.pathofexile.com/trade/search/Mirage/KlYmeOPnh5)
+
+- [Enlightent Support Gem lvl 3](https://www.pathofexile.com/trade/search/Mirage/V5lOdmdXSp)
+- [Enhance Support Gem lvl 3](https://www.pathofexile.com/trade/search/Mirage/6zoErMnqFG)
+
+- [Rustic Sash (dex%, dex, max life, resistances)](https://www.pathofexile.com/trade/search/Mirage/d840MKeqhJ)
+- [Coral Ring (dex, max life)](https://www.pathofexile.com/trade/search/Mirage/nrJ0KjdJH0)
+
+
+- [Fluid Motion Viridian Jewel](https://www.pathofexile.com/trade/search/Mirage/jW9emYJbTX)
+- [Split Personality Crimson Jewel](https://www.pathofexile.com/trade/search/Mirage/lgoRQgMpsV)
+- [The Light of Meaning Prismatic Jewel (+4% chaos res)](https://www.pathofexile.com/trade/search/Mirage/RJElZEbgi7)
+- [Watcher's Eye Prismatic Jewel (Grace, Purity of Elements)](https://www.pathofexile.com/trade/search/Mirage/9zDLZn54SK)
+- [Medium Cluster Jewel (Ancestral Reach, Sleepless Sentries)](https://www.pathofexile.com/trade/search/Mirage/eRGLBgrbcL)
+
 ## Craftaus
 
 ## Kallis versio
