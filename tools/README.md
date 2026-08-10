@@ -10,11 +10,14 @@
 ![Authenticate](../assets/pob_import_account.png)
 
 2. Items -> Trade for these items
-![Trade](../assets/pob_trade.png)
+![Trade 1](../assets/pob_items_trade1.png)
 
 
 3. Check that your authenticated. After that choose "Find best" from the slot where you want to get the upgrade
-![Trade](../assets/pob_trade2.png)
+![Trade 2](../assets/pob_items_trade2.png)
+
+4. Select query options (max price, max level etc) and select Execute
+![Trade 3](../assets/pob_items_trade3.png)
 
 
 ## Path of Exile Unique Disenchanting Tool
