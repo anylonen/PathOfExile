@@ -4,7 +4,7 @@
 
 > [Download here](https://pathofbuilding.community/)
 
-### Get your gear upgrades with PoB
+## Get your gear upgrades with PoB
 
 1. Authenticate to PoB
 ![Authenticate](../assets/pob_import_account.png)
