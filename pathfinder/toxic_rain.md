@@ -11,6 +11,8 @@
 
 - League start regex: g-g-b|g-[gb]-g|b-g-g|Runn|rint
 - Mapping regex: "!gen|s rec|ask" "m q.*([7-9].|\d..)%"
+- [T16 maps from trade](https://www.pathofexile.com/trade/search/Allflame/LgPanBGYfn)
+
 
 ## Gear
 
